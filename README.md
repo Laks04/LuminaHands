@@ -181,4 +181,4 @@ MIT License — free to use, modify, and share.
  
 ---
  
-<p align="center">Made with love using Python + OpenCV + MediaPipe</p>
+
